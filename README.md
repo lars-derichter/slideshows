@@ -2,7 +2,9 @@
 
 Miscelanneous slideshows for presentations by @lars-derichter, built with reveal.js.
 
-De slideshows werken met [reveal.js](https://github.com/hakimel/reveal.js). Gebruik <key>?</key> om de mogelijkheden en shortcuts te zien. (<key>s</key> is speaker view)
+All slideshows are built with [reveal.js](https://github.com/hakimel/reveal.js). Use <key>?</key> to see all possibilities and shortcuts. (<key>s</key> is speaker view)
+
+Most slideshows are in Dutch.
 
 ## TOC
 
