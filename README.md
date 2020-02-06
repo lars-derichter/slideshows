@@ -1,6 +1,6 @@
 # slideshows
 
-Miscelanneous slideshows for presentations by @lars-derichter, built with reveal.js.
+Miscellanneous slideshows for presentations by @lars-derichter, built with reveal.js.
 
 All slideshows are built with [reveal.js](https://github.com/hakimel/reveal.js). Use <key>?</key> to see all possibilities and shortcuts. (<key>s</key> is speaker view)
 
