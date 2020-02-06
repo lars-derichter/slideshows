@@ -1,21 +1,59 @@
-# Slide 1
+# Analyse & UML
 
 ---
 
-<!-- .slide: data-background-image="https://via.placeholder.com/1920x1080" data-background-size="contain" -->
-
-# Slide 2
-
-notes:
-
-Slide 2 - slide 2.
+## Rollenspel
 
 &&&
 
-# Vertical
+<!-- .slide: data-background-image="images/swing.jpg" data-background-size="contain" -->
 
-- punt 1 <!-- .element: class="fragment" -->
-- punt 2 <!-- .element: class="fragment" -->
+&&&
+
+[Tree Swing Cartoon Pictures](https://www.businessballs.com/amusement-stress-relief/tree-swing-cartoon-pictures-early-versions/)
+
+---
+
+## Kwaliteit van software projecten
+
+---
+
+Hoeveel IT-projecten
+
+- binnen de deadline, binnen budget met alle functionaliteiten?
+- falen compleet? (niet opgeleverd of nooit gebruikt)
+- over tijd / boven budget / voldoen niet helemaal?
+
+&&&
+
+![CHAOS Report 2015](images/chaos-1.png)
+
+(Standish Group, 2015) <!-- .element: class="cite" -->
+
+&&&
+
+<!-- .slide: data-background-image="images/chaos-2.png" data-background-size="contain" -->
+
+(Standish Group, 2015) <!-- .element: class="cite fragment" -->
+
+&&&
+
+### Oorzaken
+
+- Gebrek aan maturiteit teams <!-- .element: class="fragment" -->
+- Gebrekkig sponsorship <!-- .element: class="fragment" -->
+- <!-- .element: class="fragment" --> <strong>Gebrekkige analyse</strong>
+
+---
+
+## Slechte analyse
+
+---
+
+## Bronnen
+
+- Standish Group. (2015) Chaos Report 2015. Retrieved February 6, 2020, from https://www.standishgroup.com/sample_research_files/CHAOSReport2015-Final.pdf
+- Verboven, Michiel. (2019) _Analyse. Eisenanalyse en UML_ [presentatie].
 
 ---
 
