@@ -68,6 +68,12 @@ Oorzaak die steeds terug komt: ‘Incomplete requirements’ <!-- .element: clas
 
 &&&
 
+[78 Architects Who Had One Job And Still Failed](https://www.boredpanda.com/funny-architecture-construction-fails/)
+
+&&&
+
+### Etc
+
 - [Ugly Belgian Houses](https://uglybelgianhouses.tumblr.com/)
 - [You had one job](https://hadonejob.com/)
 - [UX fails](https://www.pinterest.com/uxfails/ux-fails/)
