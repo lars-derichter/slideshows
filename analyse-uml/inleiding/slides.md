@@ -128,15 +128,15 @@ Oorzaak die steeds terug komt: ‘Incomplete requirements’ <!-- .element: clas
 
 ## Bronnen
 
-- Opendoor Technology (2019) _The Standish Group report 83.9% of IT projects partially or completely fail_ Retrieved February 6, 2020, from https://www.opendoorerp.com/the-standish-group-report-83-9-of-it-projects-partially-or-completely-fail/
+- Opendoor Technology (2019). _The Standish Group report 83.9% of IT projects partially or completely fail_ Retrieved February 6, 2020, from https://www.opendoorerp.com/the-standish-group-report-83-9-of-it-projects-partially-or-completely-fail/
 
 &&&
 
-- Standish Group. (2015) _Chaos Report 2015._ Retrieved February 6, 2020, from https://www.standishgroup.com/sample_research_files/CHAOSReport2015-Final.pdf
+- Standish Group. (2015). _Chaos Report 2015._ Retrieved February 6, 2020, from https://www.standishgroup.com/sample_research_files/CHAOSReport2015-Final.pdf
 
 &&&
 
-- Verboven, Michiel. (2019) _Analyse. Eisenanalyse en UML_ [presentatie].
+- Verboven, Michiel. (2019). _Analyse. Eisenanalyse en UML_ [presentatie].
 
 ---
 
