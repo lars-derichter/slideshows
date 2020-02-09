@@ -10,8 +10,9 @@ Most slideshows are in Dutch.
 
 ### Communicatie en projecten
 
-- [Time Management](https://lars-derichter.github.io/slideshows/time-management/)
+- [Time Management](http://slides.larsderichter.be/time-management/)
 
 ### Analyse en UML
 
-- [Inleiding](https://lars-derichter.github.io/slideshows/analyse-uml/inleiding/)
+- [Inleiding](http://slides.larsderichter.be/analyse-uml/inleiding/)
+- [Voorbeeld van een Use Case Diagram](http://slides.larsderichter.be/analyse-uml/Use-Case-Diagram-voorbeeld/)
