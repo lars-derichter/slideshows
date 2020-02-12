@@ -216,8 +216,9 @@ WHERE departement_id <= 5
 
 notes:
 
-- De WHERE-clause werkt op dezelfde manier als in een SELECT-statement.
-- WEES VOORZICHTIG! Best eerst met een SELECT testen of je wel de juiste data gaat verwijderen.
+- WHERE-clause hetzelfde als bij SELECT
+- Als in de WHERE-clause geen primary key staat, vind MySQL dat je een onveilige operatie doet en moet je SQL_SAFE_UPDATES op 0 zetten met `SET SQL_SAFE_UPDATES = 0;` Vergeet niet om die daarna terug op 1 te zetten.
+- Tip: test voor je data onherroepelijk om zeep helpt je WHERE clause uit door die eerst te combineren met een SELECT-query.
 
 ---
 
