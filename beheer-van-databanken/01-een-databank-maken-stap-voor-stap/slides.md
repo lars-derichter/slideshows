@@ -151,7 +151,12 @@ CREATE TABLE Personeel.Persoon(
 
 notes:
 
-Tabel constraints gaan over de hele tabel. Het is dus logisch dat ze na de kolomdefinities komen.
+- Tabel constraints gaan over de hele tabel. Het is dus logisch dat ze na de kolomdefinities komen.
+- Bij een gecombineerde primary key, gebruik je gewoon een komma bijv.
+
+```SQL
+PRIMARY KEY(klant_id, bestelling_id)
+```
 
 ---
 
