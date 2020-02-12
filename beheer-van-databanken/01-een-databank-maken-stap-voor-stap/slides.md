@@ -2,7 +2,7 @@
 
 ## Stap voor stap (in MySQL)
 
-(Beheer van databanken - Lars De Richter – Thomas More Hogeschool)
+Beheer van databanken - Lars De Richter – Thomas More Hogeschool
 
 ---
 
