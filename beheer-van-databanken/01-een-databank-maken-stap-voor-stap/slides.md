@@ -16,7 +16,7 @@ Beheer van databanken - Lars De Richter – Thomas More Hogeschool
 
 - `CREATE`
 - `DROP`
-- `ALTER`
+- (`ALTER`)
 
 ---
 
@@ -162,8 +162,8 @@ Tabel constraints gaan over de hele tabel. Het is dus logisch dat ze na de kolom
 ### Commando’s
 
 - `INSERT`
-- `UPDATE`
 - `DELETE`
+- (`UPDATE`)
 
 ---
 
