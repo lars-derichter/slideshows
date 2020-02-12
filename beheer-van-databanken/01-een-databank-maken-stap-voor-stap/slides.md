@@ -1,6 +1,6 @@
-# Voorbeeld DDL-DML
+# Een databank maken
 
-## stap voor stap in MySQL
+## Stap voor stap (in MySQL)
 
 (Beheer van databanken - Lars De Richter – Thomas More Hogeschool)
 
