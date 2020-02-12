@@ -66,7 +66,7 @@ CREATE TABLE Personeel.Persoon(
 ### Tabellen verwijderen
 
 ```SQL
-DROP TABLE Testdatabase.persoon
+DROP TABLE Testdatabase.persoon;
 ```
 
 ---
@@ -106,7 +106,7 @@ Bijv.:
 
 ```SQL
 CREATE TABLE Personeel.Persoon(
-    persoon_id INT NOT NULL UNIQUE AUTO_INCREMENT
+    persoon_id INT NOT NULL UNIQUE AUTO_INCREMENT,
     voornaam VARCHAR(120) NOT NULL,
     familienaam VARCHAR(240)  NOT NULL DEFAULT 'Janssens',
     geboortedatum DATE
@@ -211,7 +211,7 @@ We gebruiken een andere volgorde dan in de definitie, dat kan geen kwaad, we def
 
 ```SQL
 DELETE FROM Personeel.Persoon
-WHERE departement_id <= 5
+WHERE departement_id <= 5;
 ```
 
 notes:

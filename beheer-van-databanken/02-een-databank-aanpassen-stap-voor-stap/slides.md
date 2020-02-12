@@ -6,13 +6,13 @@ Beheer van databanken - Lars De Richter – Thomas More Hogeschool
 
 ---
 
-## DDL
-
----
-
 ### Opmerking
 
 Met `USE <database_name>` kan je voor een heel SQL-script bepalen op welke databank gewerkt zal worden, dan heb je geen dot-notatie `<database_name>.<table.name>`nodig.
+
+---
+
+## DDL
 
 ---
 
