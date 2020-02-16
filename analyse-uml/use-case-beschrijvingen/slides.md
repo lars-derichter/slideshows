@@ -6,7 +6,7 @@
 
 # Slide 2
 
-notes:
+Notes:
 
 Slide 2 - slide 2.
 

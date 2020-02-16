@@ -18,7 +18,7 @@ Met `USE <database_name>` kan je voor een heel SQL-script bepalen op welke datab
 
 ### Commando’s
 
-&&&
++++
 
 - (`CREATE`)
 - (`DROP`)
@@ -28,7 +28,7 @@ Met `USE <database_name>` kan je voor een heel SQL-script bepalen op welke datab
 
 ### Tabellen wijzigen
 
-&&&
++++
 
 #### Kolom toevoegen
 
@@ -37,7 +37,7 @@ ALTER TABLE Persoon
   ADD email VARCHAR(120);
 ```
 
-&&&
++++
 
 ### Kolom verwijderen
 
@@ -46,7 +46,7 @@ ALTER TABLE Persoon
   DROP COLUMN geboortedatum;
 ```
 
-&&&
++++
 
 ### Kolom(definitie) wijzigen
 

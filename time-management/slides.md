@@ -7,7 +7,7 @@ Notes:
 Start met [TED-talk van Tim Urban.](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)
 Vertel ook dat een workshop als deze normaal tussen de 1000 en 2500 € kost. Ze hebben met andere worden hun inschrijvingsgeld al terug verdiend gewoon door vandaag aanwezig te zijn en goed mee te werken.
 
-&&&
++++
 
 ## Doel
 
@@ -17,7 +17,7 @@ Vertel ook dat een workshop als deze normaal tussen de 1000 en 2500 € kost. Ze
 - Meer productiviteit <!-- .element: class="fragment" -->
 - Hogere efficiëntie <!-- .element: class="fragment" -->
 
-&&&
++++
 
 <!-- .slide: data-background-image="images/zen-water.jpg" data-background-size="contain" -->
 
@@ -33,7 +33,7 @@ Notes:
 David Allen: één van de grootste en bekendste productiviteitsgoeroes. Grondlegger van een methode die GTD (getting things done) heet.
 Wanneer je een steen in een plas stilstaand water gooit, zal het water altijd exact reageren zoals vereist is door de grootte van de steen en de kracht waarmee hij in het water landt. Het water overreageert of onderreageert nooit. Het doel van goed time management is volgens hem dat je altijd klaar staat om exact juist te reageren, nooit meer energie gebruiken dan nodig, maar ook nooit te weinig doen, om een stressvrij bestaan te kunnen leiden.
 
-&&&
++++
 
 ## Opdracht
 
@@ -43,7 +43,7 @@ Notes:
 
 Normaal moet je zeker aan een 20-tal items geraken
 
-&&&
++++
 
 ![](images/brain-dump.png) <!-- .element: class="fragment" -->
 
@@ -53,7 +53,7 @@ Notes:
 
 Wat we nu gedaan hebben heet een ‘brain dump’
 
-&&&
++++
 
 ## Actionable (doe-baar)
 
@@ -61,7 +61,7 @@ Wat we nu gedaan hebben heet een ‘brain dump’
 - Wees zo specifiek mogelijk <!-- .element: class="fragment" -->
 - Formuleer zo dat je weet wanneer je klaar bent (finishing conditions) <!-- .element: class="fragment" -->
 
-&&&
++++
 
 ## Taken vs. Projecten
 
@@ -74,7 +74,7 @@ Notes:
 
 Anders te groot, wat leidt tot onoverzichtelijkheid / stress. Angst om eraan te beginnen. Als je de Mount Everest wil beklimmen deel je dat ook in etappes in. Als je met de fiets de Mont Ventoux opfietst denk je na een tijdje van lantaarpaal tot lantaarnpaal. Dat is makkelijker opm vol te houden dan het besef dat je nog 20 km aan een stuk moet klimmen.
 
-&&&
++++
 
 ## Next Actions
 
@@ -82,7 +82,7 @@ Notes:
 
 Een next-action is de eerstvolgende taak die je kan doen om een project dichter bij zijn voltooing te brengen. (Soms kunnen 2 of 3 next-actions onafhankelijk van elkaar/in parallel uitgevoerd worden). Zorg ervoor dat je altijd van elk project de next-action kent. (Het is vaak niet nodig om verder te plannen dan de volgende next-action, maar dat is wel het minimum cf: agile, wat hogere prioriteit heeft/dichterbij is weet je in detail; wat verder af is hoef je niet in detail te weten of is nog helemaal onbekend)
 
-&&&
++++
 
 ## Opdracht
 
@@ -94,7 +94,7 @@ Een next-action is de eerstvolgende taak die je kan doen om een project dichter 
 
 # Prioriteiten
 
-&&&
++++
 
 ## Prioriteiten
 
@@ -105,7 +105,7 @@ Notes:
 - Stephen Covey is nog zo’n productiviteitsgoeroe. Zijn bekendste boek is 'The 7 habits of highly productive people‘ en 'First Things First'. David Allen werkt heel erg bottom up, Covey is meer top-down.
 - Kwadranten: streven om zoveel mogelijk bezig te zijn met zaken uit QII.
 
-&&&
++++
 
 ## Opdracht
 
@@ -117,7 +117,7 @@ Notes:
 
 Vraag als ze klaar zijn of dit makkelijk of moeilijk was. Wat waren problemen? Normaal ga je als antwoord krijgen dat het soms moeilijk is om te weten wat belangrijk is.
 
-&&&
++++
 
 ## Wat is belangrijk?
 
@@ -126,13 +126,13 @@ Notes:
 David Allens methode helpt je om je todo-lijst efficiënt te beheren en om op korte tijd veel te kunnen doen. Coveys kritiek daarop is dat als je veel dingen doet, maar als dat niet de juiste dingen zijn je niets aan echte productiviteit gewonnen hebt. Je bent gewoon hard bezig geweest. (Busy time).
 Covey formuleert hier dus een heel eenvoudig antwoord op =>
 
-&&&
++++
 
 ## Brengt het je dichter
 
 ## bij je doel(en)?
 
-&&&
++++
 
 ## Dus
 
@@ -144,7 +144,7 @@ Covey formuleert hier dus een heel eenvoudig antwoord op =>
 
 ## kennen
 
-&&&
++++
 
 # SMART
 
@@ -156,7 +156,7 @@ Probleem met veel doelen is als met goede voornemens: als je ze te vaag formulee
 
 Bijv. Ik wil gezonder gaan leven is veel te vaag.
 
-&&&
++++
 
 ![](images/smart-goals.jpg)
 
@@ -168,7 +168,7 @@ Dat is een hele boterham, maar je weet dat dat haalbaar is, je weet dat dat gaat
 
 Ander voorbeeld: je wil meer tijd met familie en vrienden doorbrengen is vaag. Om de twee weken langs je grootouders gaan is veel concreter.
 
-&&&
++++
 
 ## Opdracht
 
@@ -181,7 +181,7 @@ Notes:
 Laat de studenten een aantal persoonlijke doelen formuleren. 1 geldt al zeker voor iedereen: het diploma halen binnen de voorziene tijd. (Is SMART).
 Laat ze daarna opnieuw kijken naar de kwadranten die ze toegekend hebben aan hun taken. Zijn er wijzigingen?
 
-&&&
++++
 
 ## Opdracht
 
@@ -198,7 +198,7 @@ Notes:
 
 Alles tot nu ging over todo lists / takenlijsten
 
-&&&
++++
 
 ## Kalender
 
@@ -217,7 +217,7 @@ Dit onderscheid vinden studenten vaak lastig
 
 Elke weg waarlangs een taak binnenkomt in je systeem <!-- .element: class="fragment" -->
 
-&&&
++++
 
 ## Opdracht
 
@@ -235,7 +235,7 @@ Notes:
 
 Hoe pak je het dan concreet aan om tot een goede planning te komen
 
-&&&
++++
 
 ## Jaarlijks
 
@@ -248,7 +248,7 @@ Persoonlijke missie of personal mission statement is optioneel (ben je al gauw t
 
 Grote doelen: bijv. Diploma halen
 
-&&&
++++
 
 ## Maandelijks
 
@@ -259,7 +259,7 @@ Notes:
 
 Kleinere doelen/grote projecten die bijdragen aan het halen van je grote doelen. Bijv. een stageplaats vinden; goede cijfers halen voor een bepaald vak...
 
-&&&
++++
 
 ## Wekelijks
 
@@ -278,7 +278,7 @@ Notes:
   - Deadlines bijwerken
 - Dit kan wel 15 - 20 minuten duren.
 
-&&&
++++
 
 ## Dagelijks
 
@@ -291,7 +291,7 @@ Notes:
 - ’s ochtends of de avond tevoren (ik doe dit liefst 's avonds)
 - als je hier een beetje in getraind bent, is dat niet meer dan 5 à 10 minuten werk, tijd die je ruimschoots terugwint omdat je overdag niet voortdurend moet nadenken wat je nu weer moest doen
 
-&&&
++++
 
 ## Klaar met een taak
 
@@ -318,7 +318,7 @@ Notes:
 
 # Tips
 
-&&&
++++
 
 ## Universal Capture
 
@@ -327,7 +327,7 @@ Notes:
 - Sla alles onmiddelijk op in een betrouwbaar systeem, zodat je het niet in je werkgeheugen moet vasthouden (geeft stress en verminderde capaciteit om na te denken).
 - Als je weinig details hebt noteer je het gewoon heel kort en zet je het bij je
 
-&&&
++++
 
 ## Inboxen beperken
 
@@ -336,7 +336,7 @@ Notes:
 Langs hoe minder wegen taken/afspraken bij jou geraken, hoe beter.
 Bijv. als ICT-team hadden wij op school de afspraak dat collega’s problemen via mail moesten melden. Wat in de leraarskamer gezegd werd, vergaten we toch. We moesten onze collega’s daar wel in trainen.
 
-&&&
++++
 
 ## Next actions
 
@@ -350,7 +350,7 @@ Als je een taak afgerond hebt die bij een project hoort, duidt dan onmiddellijk 
 
 ## **tegengaan**
 
-&&&
++++
 
 ## Hou je taken klein
 
@@ -359,7 +359,7 @@ Notes:
 - Denk aan de Mont Ventoux of de Mount Everest
 - Als de Rational Decision Maker een taak niet ziet zitten, neemt de Monkey direct over.
 
-&&&
++++
 
 ## Hou je taken actionable
 
@@ -368,7 +368,7 @@ Notes:
 - Aan wat je niet kan doen, kan je niet beginnen...
 - Als je bij het beginnen van een taak te lang moet nadenken over wat je nu weer moest doen, loert de Monkey om de hoek.
 
-&&&
++++
 
 ## Beperk je MIT's
 
@@ -376,7 +376,7 @@ Notes:
 
 Mont Ventoux, maar ook keuzestress + minder kans dat je alles gedaan krijgt en dat werkt demotiverend.
 
-&&&
++++
 
 ## Kwadrant 2
 
@@ -384,7 +384,7 @@ Notes:
 
 Dat is waar je Zen vindt, waar de efficiëntie zit en waar de dingen zitten die je zonder extra stress dichter bij je doelen brengen.
 
-&&&
++++
 
 ## Begin met iets makkelijk/moeilijk
 
@@ -396,7 +396,7 @@ Volgens mij hangt veel af van wanneer je het meeste energie hebt: ochtendmensen 
 
 Mijn truc is om de avond tevoren alles klaar te leggen/zetten voor mijn eerste taak (niet te moeilijk) van de dag, dan kan ik daar al geen tijd mee verliezen en is de stap om eraan te beginnen kleiner. Toen ik op een kantoor werkte, had ik een kaftje waar in grote letters START op stond, daarin stak ik mijn todo-lijst voor de volgende dag en alle documenten die ik nodig had voor mijn eerst taak.
 
-&&&
++++
 
 ## Kill Distractions
 
@@ -410,7 +410,7 @@ Trucs:
 - Installeer hulpmiddelen zoals [coldturkey](https://getcoldturkey.com/), [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji), [Forest app](https://www.forestapp.cc/) of [andere](https://freedom.to/blog/8-website-blockers-for-studying-productivity-focus/)
 - Maak afspraken met huisgenoten/collega’s. Bijv. deur dicht is alleen storen als er brand is of iemand op sterven ligt; deur op een kier is ik ben geconcentreerd aan het werken, maar als je vindt dat het dringend is, mag je aankloppen; deur open: ik ben niet aan het werk of ik ben domme taakjes aan het doen, kom maar binnen.
 
-&&&
++++
 
 ## Beloon jezelf voor kleine overwinningen
 
@@ -422,7 +422,7 @@ Notes:
 - pas op met time sinks: even facebook checken, 1 aflevering kijken, 1 potje gamen... Voor je het weet zit je aan aflevering 3 van seizoen 2 van The IT-crowd en ken je elke grap van buiten...
 - Zo hou je de Instant Gratification Monkey tevreden en neemt hij niet als een opstandige puber het roer over
 
-&&&
++++
 
 ## Rituelen
 
@@ -434,7 +434,7 @@ Pavlov-effect werkt ook bij mensen, maak hier gebruik van:
 - Als ik veel verbeterwerk heb, ga ik altijd naar dezelfde koffiebar.
 - Als ik een tekst moet schrijven zet ik altijd het VIoolconcerto van Saint-Saens op, gewoon omdaét dat hielp om mij te concentreren toen ik mijn thesis schreef en nu kom ik nog steeds in een schrijf-flow als ik dat op zet.
 
-&&&
++++
 
 ## Pomodoro Technique
 
@@ -453,7 +453,7 @@ Als je met deze techniek begint (en je hebt echt veel last van uitstellen en/of 
 
 Er bestaan veel apps die deze techniek implementeren. Bijv. [Forest app](https://www.forestapp.cc/) combineert dit met distraction blocking en gamification omdat je een bos bijeen probeert te sparen.
 
-&&&
++++
 
 ## Time Boxing
 
@@ -467,7 +467,7 @@ Veel managers plannen zo een aantal wekelijks terugkerende meetings met zichzelf
 
 Door dat in te plannen weet je dat je elke week een aantal uur geconcentreerd zal werken (soms zal je nog extra momenten moeten zoeken, maar soms zal dat voldoende zijn). Zo blijf je ook makkelijker in Q2 en de regelmaat zal ook het Pavlov effect versterken dat de Instant Gratification Monkey dan even een dutje moet doen.
 
-&&&
++++
 
 ## Pas op voor productivity porn!!
 
@@ -479,7 +479,7 @@ Probeer uit en zoek een systeem dat voor jou werkt, maar eens het werkt, blijf j
 
 # GTD Flow
 
-&&&
++++
 
 ## Stuff
 
@@ -493,7 +493,7 @@ Notes:
 
 Met stuff wordt alles bedoelt dat op je afkomt. Vragen, e-mails, documenten die je krijgt etc.
 
-&&&
++++
 
 ## Stuff
 
@@ -504,7 +504,7 @@ Actionable:
   - time-specific => calendar <!-- .element: class="fragment" -->
   - not time-specific => todo list <!-- .element: class="fragment" -->
 
-&&&
++++
 
 <!-- .slide: data-background-image="images/gtd-flow.png" data-background-size="contain" -->
 
@@ -526,13 +526,13 @@ Notes:
   - Reminders
   - Geen gedoe met bic en potlood
 
-&&&
++++
 
 # Papier
 
 Agenda & notitieboekje
 
-&&&
++++
 
 # Online / Apps
 
@@ -560,7 +560,7 @@ Volgens gedragspsychologen heb je drie à vier weken nodig om je een gewoonte ei
 - [Babauta, Leo: Zen To Done. Te Ultimate Simple Productivity System.](http://zenhabits.net/zen-to-done-the-simple-productivity-e-book/)
 - [Cirillo, Francesco: The Pomodoro Technique. 2007.](http://www.pomodorotechnique.com/resources/TePomodoroTechnique_v1-3.pdf)
 
-&&&
++++
 
 - Covey, Stephen R.: The 7 Habits of Highly Efective People. Powerfull Lessons in Personal Change. 1989. London: Simon & Schuster.
 - Covey, Stephen R., A. Roger Merril & Rebecca R. Merril: First Tings First. 2003. London: Simon & Schuster.

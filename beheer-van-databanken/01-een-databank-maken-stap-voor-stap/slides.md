@@ -12,7 +12,7 @@ Beheer van databanken - Lars De Richter – Thomas More Hogeschool
 
 ### Commando’s
 
-&&&
++++
 
 - `CREATE`
 - `DROP`
@@ -22,7 +22,7 @@ Beheer van databanken - Lars De Richter – Thomas More Hogeschool
 
 ### Databank maken
 
-&&&
++++
 
 ```SQL
 CREATE DATABASE Personeel;
@@ -43,11 +43,11 @@ Het juiste commando hiervoor is niet gestandaardiseerd in SQL en verschilt van i
 
 ### Tabellen maken en verwijderen
 
-&&&
++++
 
 ![ERD van tabel persoon](images/tabel-maken-erd.png)
 
-&&&
++++
 
 ```SQL
 CREATE TABLE Personeel.Persoon(
@@ -57,7 +57,7 @@ CREATE TABLE Personeel.Persoon(
 );
 ```
 
-&&&
++++
 
 ![lege tabel persoon](images/tabel-maken-resultaat.png)
 
@@ -82,14 +82,14 @@ Bijv.:
 - velden mogen niet leeg zijn
 - velden mogen enkel bepaalde waarden (bijv. m/v/x) bevatten
 
-&&&
++++
 
 #### Kolom constraints
 
 - 1 bepaalde kolom
 - staan na het type
 
-&&&
++++
 
 #### Kolom constraints
 
@@ -98,11 +98,11 @@ Bijv.:
 - `DEFAULT`
 - `AUTO_INCREMENT`
 
-&&&
++++
 
 ![Kolom constraints ERD](images/kolom-constraints-erd.png)
 
-&&&
++++
 
 ```SQL
 CREATE TABLE Personeel.Persoon(
@@ -125,11 +125,11 @@ Bijv.:
 - foreign key
 - check
 
-&&&
++++
 
 ![Tabel constraints ERD](images/tabel-constraints-erd.png)
 
-&&&
++++
 
 ```SQL
 CREATE Table Personeel.Departement(
@@ -174,11 +174,11 @@ PRIMARY KEY(klant_id, bestelling_id)
 
 ### Data invoeren/Records (rijen) invoeren
 
-&&&
++++
 
 ![Result of single insert](images/insert-single-result.png)
 
-&&&
++++
 
 ```SQL
 INSERT INTO Personeel.Departement (departement_naam)
@@ -190,11 +190,11 @@ notes:
 - 1 record toevoegen
 - let op: we geven zelf geen id op, want in de definitie staat dat daar `AUTO_INCREMENT` gebruikt wordt
 
-&&&
++++
 
 ![Result of multiple insert](images/insert-multiple-result.png)
 
-&&&
++++
 
 ```SQL
 INSERT INTO Personeel.Persoon (familienaam, voornaam,
@@ -212,7 +212,7 @@ We gebruiken een andere volgorde dan in de definitie, dat kan geen kwaad, we def
 
 ### Data verwijderen/Records (rijen) verwijderen
 
-&&&
++++
 
 ```SQL
 DELETE FROM Personeel.Persoon
