@@ -1,4 +1,4 @@
-# Use Case Diagram
+# Use case diagram
 
 ## Voorbeeld: ATM
 
@@ -194,4 +194,4 @@ Op Canvas vind je mijn voorstel van een uitgewerkt Use Case Diagram voor een een
 
 Deze slides werden gemaakt door [Lars De Richter](mailto:lars.derichter@thomasmore.be) voor het Graduaat Programmeren aan [Thomas More.](http://thomasmore.be)
 
-Beschikbaar onder de onder de volgende Creative Commons licentie: [Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl).
+Beschikbaar onder de volgende Creative Commons licentie: [Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl).
