@@ -17,3 +17,8 @@ Most slideshows are in Dutch.
 - [Inleiding](http://slides.larsderichter.be/analyse-uml/inleiding/)
 - [Voorbeeld van een use case diagram](http://slides.larsderichter.be/analyse-uml/use-case-diagram-voorbeeld/)
 - [Use case beschrijvingen](http://slides.larsderichter.be/analyse-uml/use-case-beschrijvingen/)
+
+### Beheer van databanken
+
+- [Een databank maken - stap voor stap](http://slides.larsderichter.be/beheer-van-databanken/01-een-databank-maken-stap-voor-stap/)
+- [Een databank aanpassen - stap voor stap](http://slides.larsderichter.be/beheer-van-databanken/02-een-databank-aanpassen-stap-voor-stap/)
