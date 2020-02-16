@@ -15,4 +15,5 @@ Most slideshows are in Dutch.
 ### Analyse en UML
 
 - [Inleiding](http://slides.larsderichter.be/analyse-uml/inleiding/)
-- [Voorbeeld van een Use Case Diagram](http://slides.larsderichter.be/analyse-uml/Use-Case-Diagram-voorbeeld/)
+- [Voorbeeld van een use case diagram](http://slides.larsderichter.be/analyse-uml/use-case-diagram-voorbeeld/)
+- [Use case beschrijvingen](http://slides.larsderichter.be/analyse-uml/use-case-beschrijvingen/)
