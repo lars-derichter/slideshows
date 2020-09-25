@@ -72,7 +72,7 @@ Wat we nu gedaan hebben heet een ‘brain dump’
 
 Notes:
 
-Anders te groot, wat leidt tot onoverzichtelijkheid / stress. Angst om eraan te beginnen. Als je de Mount Everest wil beklimmen deel je dat ook in etappes in. Als je met de fiets de Mont Ventoux opfietst denk je na een tijdje van lantaarpaal tot lantaarnpaal. Dat is makkelijker opm vol te houden dan het besef dat je nog 20 km aan een stuk moet klimmen.
+Anders te groot, wat leidt tot onoverzichtelijkheid / stress. Angst om eraan te beginnen. Als je de Mount Everest wil beklimmen deel je dat ook in etappes in. Als je met de fiets de Mont Ventoux op fietst denk je na een tijdje van lantaarnpaal tot lantaarnpaal. Dat is makkelijker opm vol te houden dan het besef dat je nog 20 km aan een stuk moet klimmen.
 
 +++
 
@@ -301,7 +301,7 @@ Notes:
 Notes:
 
 - Belang van Next Action bij project: anders valt het project stil
-- Eigenlijk zou je ooki je agenda moeten checken om te weten of je een afspraak hebt, maar reminders kunnen die last van je overnemen
+- Eigenlijk zou je ook je agenda moeten checken om te weten of je een afspraak hebt, maar reminders kunnen die last van je overnemen
 
 ---
 
@@ -324,7 +324,7 @@ Notes:
 
 Notes:
 
-- Sla alles onmiddelijk op in een betrouwbaar systeem, zodat je het niet in je werkgeheugen moet vasthouden (geeft stress en verminderde capaciteit om na te denken).
+- Sla alles onmiddellijk op in een betrouwbaar systeem, zodat je het niet in je werkgeheugen moet vasthouden (geeft stress en verminderde capaciteit om na te denken).
 - Als je weinig details hebt noteer je het gewoon heel kort en zet je het bij je
 
 +++
@@ -442,7 +442,7 @@ Pavlov-effect werkt ook bij mensen, maak hier gebruik van:
 
 - Als je bepaald werk vaak beter doet op een bepaalde plek, doe dat dan. Kan ook muziek zijn die je opzet, een specifieke kop waaruit je koffie drinkt bij het werken etc.
 - Als ik veel verbeterwerk heb, ga ik altijd naar dezelfde koffiebar.
-- Als ik een tekst moet schrijven zet ik altijd het VIoolconcerto van Saint-Saens op, gewoon omdaét dat hielp om mij te concentreren toen ik mijn thesis schreef en nu kom ik nog steeds in een schrijf-flow als ik dat op zet.
+- Als ik een tekst moet schrijven zet ik altijd het VIoolconcerto van Saint-Saens op, gewoon omdat dat hielp om mij te concentreren toen ik mijn thesis schreef en nu kom ik nog steeds in een schrijf-flow als ik dat op zet.
 
 +++
 
@@ -469,7 +469,7 @@ Er bestaan veel apps die deze techniek implementeren. Bijv. [Forest app](https:/
 
 Notes:
 
-Als je een volle agenda hebt met veel afspraken (bijv. lessen) en vergaderingen of aald je vaak beschikbaar moet zijn voor onderbrekingen (bijv. op een helpdesk waar je telefoons en e-mails moet beantwoorden) heb je vaak het gevoel dat er geen tijd is om geconcentreerd en productief door te werken aan je taken.
+Als je een volle agenda hebt met veel afspraken (bijv. lessen) en vergaderingen of als je vaak beschikbaar moet zijn voor onderbrekingen (bijv. op een helpdesk waar je telefoons en e-mails moet beantwoorden) heb je vaak het gevoel dat er geen tijd is om geconcentreerd en productief door te werken aan je taken.
 
 Daarom is het goed om in je kalender vaste momenten in te plannen voor geconcentreerd werk (de details van welk werk je dan doet laat je over aan je todo-list, maar je blokkeert tijd in je kalender/agenda).
 
