@@ -53,7 +53,7 @@ Notes:
 
 Wat we nu gedaan hebben heet een ‘brain dump’
 
-+++
+---
 
 ## Actionable (doe-baar)
 
@@ -352,6 +352,16 @@ Als je een taak afgerond hebt die bij een project hoort, duidt dan onmiddellijk 
 
 +++
 
+## Meet je (online) tijdsgebruik
+
+Notes:
+
+Met apps zoals Screen Time (ingebouwd bij Apple), Rescuetime (free plan) etc kan je automatisch bijhouden hoeveel tijd je op je devices doorbrengt en waar die naar toe gaat.
+
+Er zijn ook apps zoals toggl waarmee je semi-automatisch al je activiteiten zou kunnen bijhouden.
+
++++
+
 ## Hou je taken klein
 
 Notes:
@@ -544,9 +554,11 @@ Agenda & notitieboekje
 
 # Opdracht
 
-- Probeer gedurende drie weken het werken met een kalender en een todo-lijst uit
+- Probeer gedurende vier weken het werken met een kalender en een todo-lijst uit
 - Experimenteer ook met de tips
-- Beschrijf elke week kort je belangrijkste ervaringen (telkens 250 - 500 woorden)
+- Beschrijf de eerste drie weken bondig je belangrijkste ervaringen (telkens 250 - 500 woorden)
+- Op het einde schrijf je een eindverslag
+  (zie Canvas)
 
 Notes:
 
