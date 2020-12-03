@@ -11,6 +11,7 @@ Most slideshows are in Dutch.
 ### Communicatie en projecten
 
 - [Time Management](http://slides.larsderichter.be/time-management/)
+- [Git](http://slides.larsderichter.be/git/)
 
 ### Analyse en UML
 
