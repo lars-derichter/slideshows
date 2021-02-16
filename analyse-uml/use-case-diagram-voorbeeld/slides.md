@@ -12,7 +12,7 @@
 - Geef je ‘package’ de naam ‘ATM’. <!-- .element class="fragment" -->
 - Voeg een Use Case Diagram toe aan het Model. <!-- .element class="fragment" -->
 
-+++
+---
 
 ![hernoem je ‘package’](images/use-case-diagram-01.png)
 
@@ -20,7 +20,7 @@ notes:
 
 Klikken op `Untitled` >> rechtsonderaan bij `properties` het veld `name` veranderen in ATM
 
-+++
+---
 
 ![voeg Use Case Diagram toe](images/use-case-diagram-02.png)
 
@@ -29,7 +29,7 @@ notes:
 - Rechts klikken op `Main` >> klikken op `Delete from model`
 - Rechts klikken op `Model` >> hoveren over `Add Diagram` >> klikken op `Use Case Diagram`
 
-+++
+---
 
 ![Use Case Diagram toegevoegd](images/use-case-diagram-03.png)
 
@@ -45,7 +45,7 @@ Notes:
 
 In een Use Case Diagram is het systeem een zogenaamde ‘Black Box’. Hoe het systeem iets doet/een opdracht vervult, interesseert ons nog niet. Enkel wat het systeem moet kunnen tonen we op een overzichtelijke manier met een Use Case Diagram.
 
-+++
+---
 
 <!-- .slide: data-background-image="images/use-case-diagram-04.png" data-background-size="contain" -->
 
@@ -53,7 +53,7 @@ Notes:
 
 Klik linksonderaan bij `Toolbox` op `Use Case Subject` >> teken een rechthoek met je muisknop ingedrukt >> vul ‘ATM’ in als `UseCaseSubject`
 
-+++
+---
 
 De Model Explorer ziet er nu zo uit:
 
@@ -73,11 +73,11 @@ Notes:
 
 Het is belangrijk hierbij om te focussen naar de rol van de gebruiker, niet de individuele gebruikers. Dezelfde persoon kan soms meerdere rollen hebben bijv. in een krantenwebsite zal Yves soms een schrijver zijn en soms een redacteur, maar John is enkel een schrijver. Als schrijver zullen zij dezelfde dingen willen doen met het systeem (bijv. artikels schrijven en klaarzetten voor nazicht door een redacteur), maar als redacteur zal Yves andere dingen willen doen (bijv. artikel nakijken en publiceren) dan als schrijver.
 
-+++
+---
 
 In een Use Case Diagram wordt een actor voorgesteld door een stokpoppetje.
 
-+++
+---
 
 <!-- .slide: data-background-image="images/use-case-diagram-06.png" data-background-size="contain" -->
 
@@ -95,13 +95,13 @@ Klik links onderaan bij `Toolbox` op `Actor` >> klik in het diagram ongeveer waa
 
 **Dat worden de use cases** <!-- .element class="fragment" -->
 
-+++
+---
 
 - De use cases worden voorgesteld door een elips met een duidelijke naam erin. <!-- .element class="fragment" -->
 - Het zijn dingen die de actor met het systeem doet, meestal bevatten ze dus een werkwoord. <!-- .element class="fragment" -->
 - De use cases zijn functionaliteiten van het systeem, ze worden dus in de rechthoek getekend. <!-- .element class="fragment" -->
 
-+++
+---
 
 <!-- .slide: data-background-image="images/use-case-diagram-07.png" data-background-size="contain" -->
 
@@ -118,7 +118,7 @@ Klik links onderaan bij `Toolbox` op `Use Case` >> klik in de rechthoek ongeveer
 - Er bestaan verschillende soorten relaties. <!-- .element class="fragment" -->
 - Gewone association is voor ons meestal voldoende. <!-- .element class="fragment" -->
 
-+++
+---
 
 <!-- .slide: data-background-image="images/use-case-diagram-08.png" data-background-size="contain" -->
 
@@ -134,12 +134,12 @@ Klik links onderaan bij `Toolbox` op `Association` >> klik op de actor en sleep 
 - Primaire actor initieert (start) de actie van een use case. Actief. <!-- .element class="fragment" -->
 - Secundaire actor is betrokken bij de actie of wordt erdoor geïmpacteerd. Reactief of passief. <!-- .element class="fragment" -->
 
-+++
+---
 
 - Primaire actoren staan links van het systeem
 - Secundaire actoren staan rechts van het systeem
 
-+++
+---
 
 Wie of wat zou een secundaire actor zijn bij een ATM?
 
@@ -149,7 +149,7 @@ Actoren zijn niet altijd mensen. Zeker secundaire actoren zijn vaak andere syste
 
 Zeker in deze fase is het niet van levensbelang om de secundaire actoren te identificeren, maar voor de volledigheid wil ik ze hier toch vermelden.
 
-+++
+---
 
 <!-- .slide: data-background-image="images/use-case-diagram-09.png" data-background-size="contain" -->
 

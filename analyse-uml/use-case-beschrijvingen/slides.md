@@ -22,7 +22,7 @@ Notes:
 - Fully dressed use case
 - Fowler style use case
 
-+++
+---
 
 ### Brief use case
 
@@ -34,7 +34,7 @@ Notes:
 - Kan bijv. als samenvatting in een spreadsheet gebruikt worden waarbij in de andere kolommen andere details als prioriteit en deadlines kunnen komen.
 - Welk van de voorbeelden voor de ATM past hierbij? -> het tweede
 
-+++
+---
 
 ### Casual use case
 
@@ -48,7 +48,7 @@ Notes:
 - Welk van de voorbeelden past hierbij? -> het eerste
 - Is zeker in een vroge fase vaak goed genoeg. Verdere details zijn vaak pas nodig wanneer er werkelijk aan deze use case gewerkt wordt.
 
-+++
+---
 
 ### Fully dressed use case
 
@@ -63,7 +63,7 @@ Notes:
 - Welk van de voorbeelden past hierbij? -> het vierde
 - De exacte vorm zal van bedrijf tot bedrijf verschillen, maar binnen één bedrijf of project wordt steeds dezelfde template gebruikt.
 
-+++
+---
 
 ### Fowler style
 
@@ -89,13 +89,13 @@ Notes:
 - (Alternatieven/Uitzonderingen)
 - Resultaat
 
-+++
+---
 
 ### Naam
 
 Spreekt voor zich. De naam van de use case.
 
-+++
+---
 
 ### Functionaliteit
 
@@ -107,13 +107,13 @@ Notes:
 - Als <rol> wil ik <functionele eis/use case> kunnen, zodat <beoogd resultaat>.
 - Bijv.: Als klant wil ik mijn saldo kunnen consulteren, zodat ik weet hoeveel ik nog beschikbaar heb op mijn zichtrekening.
 
-+++
+---
 
 ### Actoren
 
 Lijst van alle actoren die betrokken zijn bij de use case
 
-+++
+---
 
 ### Aannamen
 
@@ -126,7 +126,7 @@ Notes:
 
 - Wat zou een aanname zijn die ons scenario fel zou vereenvoudigen? (Dat de klant de juist pincode ingeeft)
 
-+++
+---
 
 ### Normaal verloop
 
@@ -139,13 +139,13 @@ Notes:
 - Bij het beschrijven van een scenario is het het eenvoudigst als je eerst uitgaat van een ideale wereld waarin alles verloopt zoals je als ontwikkelaar zou willen.
 - Uiteraard ga je in je analyse ook al rekening houden met alternatieve wegen en zelfs worst-case scenario’s, maar daarvoor heb je de volgende stap.
 
-+++
+---
 
 ### Alternatieven/uitzonderingen
 
 Hier hou je rekening met andere input/keuzes van de actor en met te voorziene fouten.
 
-+++
+---
 
 ### Resultaat
 
@@ -168,11 +168,11 @@ Je vindt een template voor MS Word op Canvas.
 
 - Unknown. (unknown date). _Fully Dressed Example: Process Sale in a POS System._ Retrieved February 16, 2020, from http://suraj.lums.edu.pk/~cs463s04/Use%20case%20POS.pdf
 
-+++
+---
 
 - Verboven, Michiel. (2019). _Analyse. Eisenanalyse en UML._ [presentatie].
 
-+++
+---
 
 - Wikipedia. (2020)._Use case._ Retrieved February 16, 2020, from https://en.wikipedia.org/wiki/Use_case
 
