@@ -9,6 +9,6 @@
   "author": "Lars De Richter <lars@anansi.be>",
   "license": "CC-BY-NC-SA-4.0",
   "dependencies": {
-    "reveal.js": "^3.9.2"
+    "reveal.js": "^4.3.0"
   }
 }
